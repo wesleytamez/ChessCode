@@ -8,15 +8,15 @@
 7. e1 d1
 8. d1 e1
 9. Be1xd1 g1
-9. h1xe1 h1
+10. h1xe1 h1
 // Actual while loop, loops from 1-100, "while e1 != h1"
-10. Ke1 Nh1
+11. Ke1 Nh1
 (
 // Bunch of nested if-else statements
-11. Ke1xa1 f1 12. Ke1xa2 f2 13. Ke1xa3 f3
-14. Bf3 g1 (16. a1 O-O)
-15. Nf1 g1 (18. Bf1 g1 (19. f1 O-O) 
-19. Nf1 g1 (20. Bf2 g1 (21. b1 O-O) 
-21. Nf1 g1 (22. e1 0-0)))
-23. e1xd1 e1 24. e4#
+12. Ke1xa1 f1 12. Ke1xa2 f2 13. Ke1xa3 f3
+15. Bf3 g1 (15. a1 O-O)
+16. Nf1 g1 (16. Bf1 g1 (17. f1 O-O) 
+17. Nf1 g1 (18. Bf2 g1 (19. b1 O-O) 
+19. Nf1 g1 (20. e1 0-0)))
+17. e1xd1 e1 24. e4#
 )
